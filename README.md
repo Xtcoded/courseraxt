@@ -1,2 +1,2 @@
 # courseraxt
-HTML, CSS, JavaScript
+Introduction to Javascript and Ajax: Building Web Apps
